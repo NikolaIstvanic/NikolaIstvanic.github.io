@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an embedded software engineer working at Amazon Lab126 in Austin, Texas. I work on operating system software as well as device firmware. I primarily work in C++, but I have extensive experience developing C software, and I'm actively developing open source software in Rust.
 
-Previously, I worked at Lawrence Livermore National Laboratory writing C++ space flight simulation software as well as Cisco Systems where I wrote a Linux kernel device driver for networking hardware. In my undergrad, I was in a few research labs where we developed firmware for embedded systems on telescopes as well as ground station communications. In my spare time, I've created software for various embedded devices ranging from sun-tracking solar panels to satellite-tracking antennae.
+Previously, I worked at Lawrence Livermore National Laboratory writing C++ space flight simulation software as well as Cisco Systems where I wrote a Linux kernel device driver for networking hardware. In my undergrad, I was in a few research labs where I developed firmware for embedded systems on telescopes as well as software for ground station communications. In my spare time, I've created software for various embedded devices ranging from sun-tracking solar panels to satellite-tracking antennae and even hardware emulation.
 
 I received my Bachelor's and Master's degrees from Georgia Tech where I primarily studied operating systems, embedded software, and computer architecture.
 
