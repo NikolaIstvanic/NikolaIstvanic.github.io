@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Nikola Istvanic Resume (November 2023)](http://nikolaistvanic.github.io/files/NikolaIstvanicResume.pdf)
+[Nikola Istvanic Resume (November 2023)](http://nikolaistvanic.github.io/files/NikolaIstvanicResume.pdf) \
 [Nikola Istvanic CV (April 2024)](http://nikolaistvanic.github.io/files/NikolaIstvanicCV.pdf)
