@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nikola Istvanic"
   pronouns         : # example: "she/her"  
-  bio              : "Embedded Software Engineer"
-  location         : "Austin"
-  employer         : "Amazon Lab126"
+  bio              : "Senior Software Engineer"
+  location         : "Santa Clara"
+  employer         : "NVIDIA"
   uri              : # URL
   email            : "istvanic <dot> nikola <at> gmail <dot> com" 
 
