@@ -30,5 +30,5 @@ Hope to see you on my journey!
 ### Sarajevo
 ![Sarajevo NP](/images/sarajevo.jpg)
 
-### Mount Fuji
+### Kotor
 ![Kotor NP](/images/kotor.jpg)
